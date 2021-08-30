@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\bin\Debug\RestaurantMangmentSystem.exe.config
+C:\Users\PC\Desktop\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\bin\Debug\RestaurantMangmentSystem.exe
+C:\Users\PC\Desktop\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\bin\Debug\RestaurantMangmentSystem.pdb
+C:\Users\PC\Desktop\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.exe
+C:\Users\PC\Desktop\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.pdb
+C:\Users\PC\Desktop\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.csprojAssemblyReference.cache
+F:\Programming Language\OOP\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\bin\Debug\RestaurantMangmentSystem.exe.config
+F:\Programming Language\OOP\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\bin\Debug\RestaurantMangmentSystem.exe
+F:\Programming Language\OOP\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\bin\Debug\RestaurantMangmentSystem.pdb
+F:\Programming Language\OOP\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.csprojAssemblyReference.cache
+F:\Programming Language\OOP\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.csproj.CoreCompileInputs.cache
+F:\Programming Language\OOP\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.exe
+F:\Programming Language\OOP\OOP-Project\RestaurantMangmentSystem\RestaurantMangmentSystem\obj\Debug\RestaurantMangmentSystem.pdb
