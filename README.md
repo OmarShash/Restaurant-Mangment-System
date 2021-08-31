@@ -3,7 +3,7 @@
 - Restaurant management system helps you capture transactions and manage inventory with accuracy and generally run everyday processes more efficiently,designed for the foodservice industry.
 
 - The System reduces the hectic of managing food orders, delivery employees and tracking inventory items Manually such that:
-    - Orders from customers are accepted and bills are calculated automatically.
+  - Orders from customers are accepted and bills are calculated automatically.
 ▪ Food categories and ingredient products are managed and tracked automatically.
 ▪ Automatic Management of the delivery boys.
 ▪ The Ability to rank food products by customers is a considerable requirement.
