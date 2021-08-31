@@ -2,6 +2,8 @@
  ## By C#
  
 - Restaurant management system helps you capture transactions and manage inventory with accuracy and generally run everyday processes more efficiently,designed for the foodservice industry.
+## Class Digram For Restaurant Mangment System
+![restaurant_management_system](https://user-images.githubusercontent.com/52002880/131529017-8ff0158b-1039-47c5-8e42-c65168a59aad.jpg)
 
 - The System reduces the hectic of managing food orders, delivery employees and tracking inventory items Manually such that:
   - Orders from customers are accepted and bills are calculated automatically.
