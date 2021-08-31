@@ -1,5 +1,5 @@
 # Restaurant-Mangment-System
- ##By C#
+ ## By C#
  
 - Restaurant management system helps you capture transactions and manage inventory with accuracy and generally run everyday processes more efficiently,designed for the foodservice industry.
 
